@@ -2,8 +2,10 @@
 print("please enter your feedback in good/bad answer")
 user_input = input("how are you==").lower()
 print(user_input)
-if user_input in ("good","bad"):
-     print("thanks for your feedback")
+if user_input == "good":
+     print("thanks!,nice to hear that!!")
+elif user_input=="bad":
+    print("hey!!are you ok!!")
 
 else:
      print("invalid input please enter your feedback in good/bad answer")
