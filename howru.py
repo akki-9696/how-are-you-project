@@ -11,5 +11,5 @@ elif user_input=="bad":
 
 else:
      print("invalid input please enter your feedback in good/bad answer")
-     print ("are you mad! why dont you type without any errors! dumbass!")
+   
    
