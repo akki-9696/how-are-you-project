@@ -6,6 +6,7 @@ if user_input == "good":
      print("thanks!,nice to hear that!!")
 elif user_input=="bad":
     print("hey!!are you ok!!")
+    print("do u want some help")
 
 else:
      print("invalid input please enter your feedback in good/bad answer")
