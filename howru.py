@@ -21,6 +21,6 @@ else:
         print("then sit like that only!!!")
 
     else: 
-        print("wrong input")
+        print("bro please provied the valid input")
 
    
