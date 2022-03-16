@@ -9,6 +9,14 @@ elif user_input=="bad":
     print("do u want some help")
 
 else:
-     print("invalid input please enter your feedback in good/bad answer")
-   
+    print("please provide your outputin yes/no ")
+    user_input = input("do u want to change your mood==")
+    if user_input=="yes":
+        print("lets play bgmi for mood change")
+    elif user_input== "no":
+        print("then sit like that only!!!")
+
+    else: 
+        print("wrong input")
+
    
